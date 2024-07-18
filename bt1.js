@@ -1,4 +1,4 @@
-let sum = 0;
+let sum = 10;
 for (let i = 0; i < 101; i++) {
     sum += i;
 }
